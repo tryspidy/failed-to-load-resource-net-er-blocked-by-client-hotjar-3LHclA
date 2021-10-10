@@ -1,0 +1,1 @@
+It turns out when the network waterfall list this error, it means a browser extension blocked the request. The most common culprit is an ad blocker like AdBlock Plus.
